@@ -1,0 +1,3 @@
+eclipse မှာ orm သုံးတဲ့အခါ connection မရှိလို့တက်တဲ့ warning ကို ရှင်းဖို့ဆိုရင်
+window -> preference -> java persistence -> jpa ->error/warning -> project အောက်က
+no connection specified for project ကို ignore လုပ်ပေးရမယ်
